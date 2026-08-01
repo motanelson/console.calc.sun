@@ -1,2 +1,2 @@
-
+color f0
 type %1 | calc.exe
